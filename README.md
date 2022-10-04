@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osdaher
 - 👀 I’m interested in Back-end and data security
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on start ups from data managments
+- 💞️ I’m looking to collaborate on startups from data managments
 - 📫 How to reach me stopgap.frill0w@icloud.com
 
 <!---
